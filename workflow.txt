@@ -29,3 +29,5 @@ composer require pay-now/paynow-php-sdk
 - check the logged in user
 - check the user is premium or not
 - if user is premium then make that access some resoure
+
+7391195275, 7123277406

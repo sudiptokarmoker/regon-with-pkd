@@ -1,0 +1,31 @@
+invoice api : eluRVNKuerjqVTlfzrZ
+
+paynow access  :
+API KEY : 0e723f5e-6be2-4b14-ae88-f53866b8dd06
+
+SIGNATURE KEY : 
+7cccad3a-a4c6-4210-bf3c-69e30b8ab183
+
+composer require pay-now/paynow-php-sdk
+
+====================================================================
+1. install the paynow sdk and invoice api and test the of payment and invoice email working correctly (workign)
+1. user will be able to logged in via required access information
+2. check the user role ? either primium or free user ?
+3. if free user then user will be able to pay as premium user
+4. and for payment term user will be able to pay via quick payments, BLIK or card payment 
+5. after payment done user will get one invoice vi invoice api
+6. and this user will be able to access some premium features only for 183 days
+
+==============================================================
+
+- transfer the local site to created new folder at njtuts.com
+- make the test payemnt again if done
+- create frontend part of button
+- make payment and update the data
+
+=================================================================
+- install spatie and create role of the premium user
+- check the logged in user
+- check the user is premium or not
+- if user is premium then make that access some resoure
